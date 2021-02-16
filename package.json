@@ -1,7 +1,7 @@
 {
   "name": "shared-components",
   "version": "1.0.0",
-  "description": "Test Component",
+  "description": "Testing COmponent",
   "main": "index.js",
   "scripts": {
     "build": "babel src -d build",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/pawankumar95/shared-components.git"
   },
-  "author": "Pawan",
+  "author": "Pawan Kumar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pawankumar95/shared-components/issues"
